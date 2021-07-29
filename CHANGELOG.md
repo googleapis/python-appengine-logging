@@ -3,7 +3,7 @@
 ### [0.1.4](https://www.github.com/googleapis/python-appengine-logging/compare/v0.1.3...v0.1.4) (2021-07-29)
 
 
-### Features
+### Documentation
 
 * add Samples section to CONTRIBUTING.rst ([#19](https://www.github.com/googleapis/python-appengine-logging/issues/19)) ([8854cbe](https://www.github.com/googleapis/python-appengine-logging/commit/8854cbe02c233901bf4601a99cdfbd9826b616bf))
 
